@@ -24,7 +24,8 @@ B = np.array([-9,4,-1])
 solution = np.linalg.solve(A,B)
 print("The solution for the given matrix is",solution)
 ## Output:
-C:\Users\ASUS\Pictures\Screenshots\Screenshot 2024-04-07 230632.png
+![Screenshot 2024-04-07 230632](https://github.com/shanthosh397/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/153431200/a424c5a8-f58f-456e-b9a8-0457ff0f3085)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
