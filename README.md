@@ -15,11 +15,13 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+
 import numpy as np
-a=np.array([[5,-3,-10],[2,2,-3],[-3,1,5]])
-b=np.array([-9,4,-1])
+a = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
+b = np.array([-9,4,-1])
 solution=np.linalg.solve(a,b)
-print("The solution for the given matrix is",solution)
+print(solution)
+
 ## Output:
 ![Screenshot 2024-04-07 230632](https://github.com/shanthosh397/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/153431200/9e9d7365-a5f0-45cd-80ab-ac1e1aadcb6f)
 
